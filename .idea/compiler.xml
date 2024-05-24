@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile default="true" name="Default" enabled="true" />
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="Review-Microservice" />
+        <module name="Catalog-Microservice" />
+        <module name="eureka-microservice" />
+        <module name="order-microservice" />
+        <module name="auth-microservice" />
+        <module name="gateway-microservice" />
+        <module name="PaymentService" />
+        <module name="user-microservice" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="auth-microservice" target="17" />
+      <module name="Catalog-Microservice" target="17" />
+      <module name="Clients" target="17" />
+      <module name="eureka-microservice" target="17" />
+      <module name="gateway-microservice" target="17" />
+      <module name="MSORDER" target="17" />
+      <module name="order-microservice" target="17" />
+      <module name="PaymentService" target="17" />
+      <module name="Review-Microservice" target="17" />
+      <module name="user-microservice" target="17" />
+    </bytecodeTargetLevel>
+  </component>
+  <component name="JavacSettings">
+    <option name="ADDITIONAL_OPTIONS_OVERRIDE">
+      <module name="Catalog-Microservice" options="-parameters" />
+      <module name="Clients" options="-parameters" />
+      <module name="MSORDER" options="-parameters" />
+      <module name="PaymentService" options="-parameters" />
+      <module name="Review-Microservice" options="-parameters" />
+      <module name="auth-microservice" options="-parameters" />
+      <module name="eureka-microservice" options="-parameters" />
+      <module name="gateway-microservice" options="-parameters" />
+      <module name="order-microservice" options="-parameters" />
+      <module name="user-microservice" options="-parameters" />
+    </option>
+  </component>
+</project>

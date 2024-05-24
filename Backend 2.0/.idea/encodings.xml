@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$/Catalog-Microservice/Catalog-Microservice/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Catalog-Microservice/Catalog-Microservice/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Order-Management-Microservice/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/PaymentService/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/PaymentService/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Review-Microservice/Review-Microservice/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Review-Microservice/Review-Microservice/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/auth-microservice/auth-microservice/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/auth-microservice/auth-microservice/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/auth-microservice/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/eureka-microservice/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/eureka-microservice/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/gateway-microservice/gateway-microservice/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/gateway-microservice/gateway-microservice/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/gateway-microservice/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/order-microservice/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/order-service/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/user-microservice/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/user-microservice/user-microservice/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/user-microservice/user-microservice/src/main/resources" charset="UTF-8" />
+  </component>
+</project>
